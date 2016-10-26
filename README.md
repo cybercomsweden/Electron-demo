@@ -2,7 +2,11 @@
 
 A collection of smaller project to try out some of the features available in Electron.
 
-## Some ides of what to build
+## Good links
+- [Electron homepage](http://electron.atom.io/)
+- [Electron API demos](https://github.com/electron/electron-api-demos)
+
+## Ides of what to build
 - Hello world!  
 - To-Do list
 - Map desktop application using Google maps API
@@ -12,7 +16,7 @@ A collection of smaller project to try out some of the features available in Ele
 - Lorem ipsum generator
 - Clocks of the world 
 
-## Some links links to other projects
+## Links to other projects
 - [Boilerplate](https://github.com/sindresorhus/electron-boilerplate) 
 - [Twitter app](https://github.com/sindresorhus/anatine) 
 - [Facebook messenger app](https://github.com/sindresorhus/caprine)   
